@@ -9,7 +9,7 @@ function NavBar(props) {
   };
 
   return (
-    <nav className="navbar navbar-dark bg-primary fixed-top">
+    <nav className="navbar navbar-dark bg-primary">
       <Link className="navbar-brand" to="/">
         Q&App
       </Link>
